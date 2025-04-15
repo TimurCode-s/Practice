@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 I love kakashki
-=======
 And play volleybal :)
->>>>>>> testing
+testing
